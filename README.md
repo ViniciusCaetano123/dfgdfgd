@@ -12,7 +12,8 @@ Função equalizeHist:<br>
 <br>
 Defini duas imagem(um original e a outra que sofrerá a equalização) com suas alturas e larguras, e tambem foi colocado o CV_8UC1 para as imagens serem criadas para representar 8 bits por pixel. <br>
 Temos duas funções calcHist, uma para a imagem sem a equalização e a outra com. Essa função serve para calcular o histograma da imagem.Tambem temos a função normalize para cada umas das imagem, ela vai servir para aumentar o constrate e remover ruídos da imagens<br>
-![caclHis](https://user-images.githubusercontent.com/42754908/136700704-395c5a5d-db22-451f-88c4-04f3c1c4eb0d.png)
+![caclHis](https://user-images.githubusercontent.com/42754908/136700970-c9fa9827-3aee-4ce4-a271-8e1f3809aacb.png)
+
 <br>
 Depois o setTo para setar todos os pixels para um canal unico-utilizando o Scanlar(0).<br>
 
