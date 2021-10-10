@@ -1,6 +1,6 @@
 # Histograma![equalizada](https://user-images.githubusercontent.com/42754908/136682234-e7a65a0f-ac9a-4458-9679-dd6ce1fcb5e9.png)
 
-Exercício 1.
+<strong>Exercício 1</strong>.<br>
 Foi utilizado o imread para pode ler a imagem(foi utilizado imagem porque eu estava sem webcam) e uma conversão para grayscale.
 Para a inclusão do histograma atravez da imagem, foi modicicado o programa base histogram.cpp e incluido outras funções, que foram possiveis atraves de outros exemplos
 feito com imagens. 
