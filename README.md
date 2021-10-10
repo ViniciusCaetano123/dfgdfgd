@@ -22,7 +22,12 @@ Depois o setTo para setar todos os pixels para um canal unico-utilizando o Scanl
  
  Para realizar a exibição do histograma, foi utlizado a função line-para exibir as linhas do histograma- e a função react para exibir um retangulo no lado esquerdo superior da tela. 
 ![salvar](https://user-images.githubusercontent.com/42754908/136700936-23097312-edfe-4019-8b80-2934ccfdd023.png)
+<strong>Exercício 2</strong>.<br>
+Já que estou fazendo com comparação de duas imagem. Vamos comparar as duas, em vez de um video que é frame por frame, ou, "imagem" por "imagem".
+Utilizamos a função compareHist, colocando duas imagem, uma com equalizada e a outra não. Já que foi espeficicado o CV_COMP_CORREL, quanto mais longe o histograma tiver, 
+séra retornado 1 e quanto mais perto será -1.
 
+![final2](https://user-images.githubusercontent.com/42754908/136710691-48e3c90d-f55d-40f9-9bce-8b03a8744b2e.png)
 
 
 
