@@ -19,7 +19,8 @@ Depois o setTo para setar todos os pixels para um canal unico-utilizando o Scanl
 
  
  Para realizar a exibição do histograma, foi utlizado a função line-para exibir as linhas do histograma- e a função react para exibir um retangulo no lado esquerdo superior da tela. 
-![final](https://user-images.githubusercontent.com/42754908/136682625-9669275d-b7b1-4903-b6d9-0c1167281bd2.png)
+![salvar](https://user-images.githubusercontent.com/42754908/136700936-23097312-edfe-4019-8b80-2934ccfdd023.png)
+
 
 
 
