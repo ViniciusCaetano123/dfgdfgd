@@ -15,7 +15,8 @@ Temos duas funções calcHist, uma para a imagem sem a equalização e a outra c
 ![caclHis](https://user-images.githubusercontent.com/42754908/136700704-395c5a5d-db22-451f-88c4-04f3c1c4eb0d.png)
 <br>
 Depois o setTo para setar todos os pixels para um canal unico-utilizando o Scanlar(0).<br>
-![scaler](https://user-images.githubusercontent.com/42754908/136682552-331044d8-7053-49bb-a094-7eeff951c4ca.png)
+![scanler](https://user-images.githubusercontent.com/42754908/136700745-f295b13c-b012-4aac-bc75-54c0e2991687.png)
+
  
  Para realizar a exibição do histograma, foi utlizado a função line-para exibir as linhas do histograma- e a função react para exibir um retangulo no lado esquerdo superior da tela. 
 ![final](https://user-images.githubusercontent.com/42754908/136682625-9669275d-b7b1-4903-b6d9-0c1167281bd2.png)
