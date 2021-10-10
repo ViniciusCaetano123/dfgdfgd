@@ -6,7 +6,7 @@ Para a inclusão do histograma atravez da imagem, foi modicicado o programa base
 feito com imagens. 
 Para realizar a equalização da imagem, foi utilizada a função equalizeHist, um método para melhorar o constrate da imagem, ele estica o intervalo dos pixels agrupados. Segue uma imagem de exemplo-tirada do google:
 ![images](https://user-images.githubusercontent.com/42754908/136681489-6b11b2f3-6042-45c4-8c20-49b45b7566a0.jpg)<br>
-Função equalizeHist:
+Função equalizeHist:<br>
 ![euqlizada](https://user-images.githubusercontent.com/42754908/136700455-b7a15725-fcee-4d0c-a6f3-7f0ee87ffc7d.png)
 
 <br>
