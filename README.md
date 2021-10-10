@@ -10,7 +10,7 @@ Defini duas imagem(um original e a outra que sofrerá a equalização) com suas 
 Temos duas funções calcHist, uma para a imagem sem a equalização e a outra com. Essa função serve para calcular o histograma da imagem.Tambem temos a função normalize para cada umas das imagem, ela vai servir para aumentar o constrate e remover ruídos da imagens<br>
 
 ![image,sa](https://user-images.githubusercontent.com/42754908/136682293-bbfb353f-725e-4d1f-b3a1-3eb612bad1a7.png)<br>
-Depois o setTo para setar todos os pixels para um canal unico-utilizando o Scanlar(0).
+Depois o setTo para setar todos os pixels para um canal unico-utilizando o Scanlar(0).<br>
 ![scaler](https://user-images.githubusercontent.com/42754908/136682552-331044d8-7053-49bb-a094-7eeff951c4ca.png)
  
  Para realizar a exibição do histograma, foi utlizado a função line-para exibir as linhas do histograma- e a função react para exibir um retangulo no lado esquedo superior da tela. 
