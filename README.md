@@ -7,7 +7,8 @@ feito com imagens.
 Para realizar a equalização da imagem, foi utilizada a função equalizeHist, um método para melhorar o constrate da imagem, ele estica o intervalo dos pixels agrupados. Segue uma imagem de exemplo-tirada do google:
 ![images](https://user-images.githubusercontent.com/42754908/136681489-6b11b2f3-6042-45c4-8c20-49b45b7566a0.jpg)<br>
 Função equalizeHist:
-![image](https://user-images.githubusercontent.com/42754908/136700427-e6bc2b01-9afc-45aa-ba0e-a9b478c4ad64.png)
+![euqlizada](https://user-images.githubusercontent.com/42754908/136700455-b7a15725-fcee-4d0c-a6f3-7f0ee87ffc7d.png)
+
 <br>
 Defini duas imagem(um original e a outra que sofrerá a equalização) com suas alturas e larguras, e tambem foi colocado o CV_8UC1 para a imagens serem criadas com   para representar 8 bits por pixel. <br>
 Temos duas funções calcHist, uma para a imagem sem a equalização e a outra com. Essa função serve para calcular o histograma da imagem.Tambem temos a função normalize para cada umas das imagem, ela vai servir para aumentar o constrate e remover ruídos da imagens<br>
