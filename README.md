@@ -26,8 +26,9 @@ Depois o setTo para setar todos os pixels para um canal unico-utilizando o Scanl
 Já que estou fazendo com comparação de duas imagem. Vamos comparar as duas, em vez de um video que é frame por frame, ou, "imagem" por "imagem".
 Utilizamos a função compareHist, colocando duas imagem, uma com equalizada e a outra não. Já que foi espeficicado o CV_COMP_CORREL, quanto mais longe o histograma tiver, 
 séra retornado 1 e quanto mais perto será -1.
+![fonalEnd](https://user-images.githubusercontent.com/42754908/136711085-84581a3c-3254-433c-af44-67287ba56c57.png)
 
-![final2](https://user-images.githubusercontent.com/42754908/136710691-48e3c90d-f55d-40f9-9bce-8b03a8744b2e.png)
+
 
 
 
