@@ -6,10 +6,11 @@ Para a inclusão do histograma atravez da imagem, foi modicicado o programa base
 feito com imagens. 
 Para realizar a equalização da imagem, foi utilizada a função equalizeHist, um método para melhorar o constrate da imagem, ele estica o intervalo dos pixels agrupados. Segue uma imagem de exemplo-tirada do google:
 ![images](https://user-images.githubusercontent.com/42754908/136681489-6b11b2f3-6042-45c4-8c20-49b45b7566a0.jpg)
-Defini duas imagem(um original e a outra que sofrerá a equalização) com suas alturas e larguras, e tambem foi colocado o CV_8UC1 para a imagens serem criadas com   para representar 8 bits por pixel. 
-Temos duas funções calcHist, uma para a imagem sem a equalização e a outra com. Essa função serve para calcular o histograma da imagem.Tambem temos a função normalize para cada umas das imagem, ela vai servir 
+Defini duas imagem(um original e a outra que sofrerá a equalização) com suas alturas e larguras, e tambem foi colocado o CV_8UC1 para a imagens serem criadas com   para representar 8 bits por pixel. <br>
+Temos duas funções calcHist, uma para a imagem sem a equalização e a outra com. Essa função serve para calcular o histograma da imagem.Tambem temos a função normalize para cada umas das imagem, ela vai servir <br>
 
 
+![image,sa](https://user-images.githubusercontent.com/42754908/136682293-bbfb353f-725e-4d1f-b3a1-3eb612bad1a7.png)
 
 
 
