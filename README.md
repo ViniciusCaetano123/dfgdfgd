@@ -13,3 +13,4 @@ Aqui estou percorrendo a matriz, e para cada iteração estou atribuindo nas tr�
 ![for](https://user-images.githubusercontent.com/42754908/137406870-a7331f3e-35ec-49d4-b07a-6c7b2b8fff72.png)
 
 <strong>Exercício 2</strong>.<br>
+![exercicio2](https://user-images.githubusercontent.com/42754908/137407426-78162c33-b12b-40ee-abdc-22e494f69bf7.png)
