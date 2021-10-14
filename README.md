@@ -9,7 +9,7 @@ Na imagem abaixo estou lendo a imagem do input do usuario e utilizando o funçã
 Estou pegando o tamanho da imagem.Tambem atribuindo nas quatros variaveis um valor que será usada nos dois for.
 ![size](https://user-images.githubusercontent.com/42754908/137405658-98881406-f299-4dd9-b725-ca7dee164164.png)
 
-
+Aqui estou percorrendo a matriz, e para cada iteração estou atribuindo nas três posições do vetor o valor negativo 255,  para deixa o retangulo negativo.
 ![for](https://user-images.githubusercontent.com/42754908/137406870-a7331f3e-35ec-49d4-b07a-6c7b2b8fff72.png)
 
 <strong>Exercício 2</strong>.<br>
