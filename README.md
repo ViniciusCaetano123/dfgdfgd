@@ -17,4 +17,7 @@ Aqui estou percorrendo a matriz, e para cada iteração estou atribuindo nas tr�
 
 Conforme no exercicio 1, eu estou lendo a imagem do input e utilizando ela com o imread para ler ela, tambem estou pegando o tamanho dela, e utilizando a função clone para clocar(não estou utilizando a varivel final, esqueci de tirar ela do codigo, já que eu entreguei o codigo  na data certa, vou deixar assim para não modificar a data.).
 Criei quatro variveis, para pode utilizar a função react(quadraro).
-![ativdade2](https://user-images.githubusercontent.com/42754908/137407706-d17755cf-e554-48cc-99a6-84991f88c685.png)
+![ativdade2](https://user-images.githubusercontent.com/42754908/137407706-d17755cf-e554-48cc-99a6-84991f88c685.png)<br>
+
+Estou utlizando a função react para pode  pegar a imagem
+![reac](https://user-images.githubusercontent.com/42754908/137408691-041878a3-5bb1-42da-b684-25e6a4e09b00.png)
