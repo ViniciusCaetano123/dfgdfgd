@@ -4,10 +4,7 @@
 
 
 
-<strong>Exercício 1</strong>.<br>
 
-
-<strong>Exercício 2</strong>.<br>
-![exercicio2](https://user-images.githubusercontent.com/42754908/137407426-78162c33-b12b-40ee-abdc-22e494f69bf7.png)
+![trab2ok](https://user-images.githubusercontent.com/42754908/137632449-9c18814b-0609-4d1c-a6eb-f5a4c176af1b.png)
 
 
