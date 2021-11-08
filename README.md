@@ -10,5 +10,5 @@ Para solução do exercicio foi utilizado  como referência  o programa addweigh
 Como avia falado anteriormente, quando voce deslizar a setinha, a função on_trackbar_blend será chamada. Essa função ira calcular a altura,declinio,posicao_um,slider,posicao_dois, para depois dentro do for, a variavel  alpha(uma variavel muito importate) vai receber um calculo matematico que vai ser responsavel por aplicar os efeitos<br>
 ![alpha](https://user-images.githubusercontent.com/42754908/140782865-050abf94-7277-4835-a6ff-42fccc148c53.png)<br>
 
-Criei uma função atribuir, onde será passado o x, y e o alpha. Logo em seguida irá ser atribuido na matriz de pixel para o efeito<br>![atribuir](https://user-images.githubusercontent.com/42754908/140783461-ed36867d-7bec-4744-a3f1-03c67d72d0e7.png)
+Criei uma função atribuir, onde será passado o x, y e o alpha. Logo em seguida irá ser atribuido  na posição x e y da matriz de pixel o efeito<br>![atribuir](https://user-images.githubusercontent.com/42754908/140783461-ed36867d-7bec-4744-a3f1-03c67d72d0e7.png)
 
