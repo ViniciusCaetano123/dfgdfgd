@@ -19,4 +19,5 @@ Criei uma função atribuir, onde será passado o x, y e o alpha. Logo em seguid
 As duas imagens aqui acima, representa dois frame do video que vai estar no repositorio.<br>
 Primeiro vamos abrir um video que foi baixo do youtube e pegamos a altura e largura dele. criamos a variavel densidade, na qual ela vai atuar como uma opacidade dos quadrados de baixo e de cima do efeito blur. Clocamos duas instancia da class Mat com suas largura e altura respecitvas e conversando ela pra CV_8UC1.<br>
 ![parti1](https://user-images.githubusercontent.com/42754908/140843940-0b1eeee7-d7ac-40e8-bf0d-e446e879e7e7.png)<br>
+Na imagem abaixo vamos percorer a matriz de pixel, no primeiro for 
 ![parte2](https://user-images.githubusercontent.com/42754908/140843961-d2aef514-3a94-47a7-8f9f-6db1abbe05bc.png)
