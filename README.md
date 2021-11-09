@@ -21,4 +21,5 @@ Primeiro vamos abrir um video que foi baixo do youtube e pegamos a altura e larg
 ![saida](https://user-images.githubusercontent.com/42754908/140847161-effb61e5-362f-4f17-a823-64708910aefc.png)
 <br>
 Na imagem abaixo vamos percorer a matriz de pixel, para cada interação vamo setar o valor negativo que seria represetando com o sinal de menos. No proximo for, vamos percorrer a matriz de pixel novamente e pra cada pixel da imagem, vamo aplicar a principal função alpha que retornara um valor e será aplicado na matriz. Chamamos a função cvtColor para converter para CV_GRAY2RGB. Aplicar o loop no while, chamamos a função medianBlur para aplicar o blur na imagem e tambem á multiply, como o proprio nome já diz, ela via multiplar duas "imagem", na qual vão ser passada pelo parametro um e dois, o terceiro parametro é a varivel de resultado entre a multiplicação das duas. Depois chamamos a função addWeighted para mesclar os resultados da multiplicação feita coma  função multiply. E depois exibimos ela com a função inshow.<br>
-![parte2](https://user-images.githubusercontent.com/42754908/140843961-d2aef514-3a94-47a7-8f9f-6db1abbe05bc.png)
+![saida2](https://user-images.githubusercontent.com/42754908/140847236-b524d8a9-206e-417b-90a1-95afaefb5489.png)
+
