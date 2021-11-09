@@ -15,4 +15,5 @@ Criei uma função atribuir, onde será passado o x, y e o alpha. Logo em seguid
 <strong>Exercicio 2</strong><br>
 ![exercicio2](https://user-images.githubusercontent.com/42754908/140839923-3fc27907-d0dd-4a37-bf32-1c22f0a3da09.png)
 <br>
-
+![dois](https://user-images.githubusercontent.com/42754908/140840527-f896ef9d-1887-46b4-ba00-70ccfadf02cf.png)<br>
+As duas imagens aqui acima, representa dois frame do video que vai estar no repositorio.
