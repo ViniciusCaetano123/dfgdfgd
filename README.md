@@ -11,8 +11,9 @@ Foi utilizado o programa exemplos/dft.cpp como ponto de partida para a resoluç�
 ![Create](https://user-images.githubusercontent.com/42754908/141861391-00dddbdc-5d62-4b3a-a6b3-667eeaf4d1e3.png)<br>
 Na imagem acima, criaremos 4 controles deslizantes para a aplicação do filtro. onde todas vão ter um limite de até 500 para o filtro. <br>
 ![filtra](https://user-images.githubusercontent.com/42754908/141860624-0d07ab39-48de-44ce-b477-84b9eca6a82b.png)<br>
-A imagem acima aplica uma função de filtragem que será aplicada em cada pixel da imagem, percorrendo toda imagem. Para obter o resultado da imagem filtrada, utilziamos uma função matetimatica que está no código acima. Para a resultado da imagem filtrada
+A imagem acima aplica uma função de filtragem que será aplicada em cada pixel da imagem, percorrendo toda imagem. Para obter o resultado da imagem filtrada, utilziamos uma função matematica que está no código acima. Conforme o wikipedia, "aplicar transformada de Fourier na imagem  realizando-se em seguida a filtragem desejada e depois calculando-se a transformada inversa de Fourier para obter o resultado da imagem filtrada".
 
 <h3> Bibliografia </h3>
 https://pt.wikipedia.org/wiki/Filtragem_no_dom%C3%ADnio_da_frequ%C3%AAncia
+https://pt.wikipedia.org/wiki/Transformada_de_Fourier
 
