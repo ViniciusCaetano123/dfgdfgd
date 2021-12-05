@@ -1,11 +1,6 @@
 # Detecção de bordas com o algoritmo de Canny
 
-![pontilhado_canny](https://user-images.githubusercontent.com/42754908/143772396-e9fc7c78-d508-454e-994a-5e46adac524c.png)<br>
-Acima temos uma 3 imagens. O resultado da primeira imagem é do algoritmo de canny e segundo é do  pontilhismo, na qual, ambos foram disponibilizado no material de referencia.
-O ultimo resultado, foi a junção do canny e pontilhismo.
 
-![principal](https://user-images.githubusercontent.com/42754908/143956836-81bee379-c99d-4c40-ae65-e73dfb7a0694.png)<br>
-Para a criação do pontilhismo, utilizamos a função circle para criar um circulo na imagem, passando como parametro a imagem, onde o circulo vai ser desenhado, a posição do
-circulo, o raio do circulo, a cor do circulo e a espessura dele, isso dentro do for, percorrendo sua matriz e calculando suas posições x e y.
-Para a criação do pontilhismo junto com canny, utilizamos a função Canny para detecção de bordas percorrendo sua matriz, verificando se o valor da confição é 255(branco),
-para aplicação a função circle descrita acima.
+![narutoGif](https://user-images.githubusercontent.com/42754908/144731274-22d86a33-e806-4553-90a7-9864b4d7d3f5.gif)![tengen](https://user-images.githubusercontent.com/42754908/144731276-a713256c-f144-4ec4-b0ee-3ea97187a2b7.png)
+![tengen](https://user-images.githubusercontent.com/42754908/144731279-03b33e37-e12f-4da8-b2b2-57a059a1f554.gif)
+
